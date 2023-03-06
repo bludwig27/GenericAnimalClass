@@ -1,0 +1,15 @@
+C:\Users\bludw\source\repos\GenericAnimalClass\GenericAnimalClass\bin\Debug\net6.0\GenericAnimalClass.exe
+C:\Users\bludw\source\repos\GenericAnimalClass\GenericAnimalClass\bin\Debug\net6.0\GenericAnimalClass.deps.json
+C:\Users\bludw\source\repos\GenericAnimalClass\GenericAnimalClass\bin\Debug\net6.0\GenericAnimalClass.runtimeconfig.json
+C:\Users\bludw\source\repos\GenericAnimalClass\GenericAnimalClass\bin\Debug\net6.0\GenericAnimalClass.dll
+C:\Users\bludw\source\repos\GenericAnimalClass\GenericAnimalClass\bin\Debug\net6.0\GenericAnimalClass.pdb
+C:\Users\bludw\source\repos\GenericAnimalClass\GenericAnimalClass\obj\Debug\net6.0\GenericAnimalClass.csproj.AssemblyReference.cache
+C:\Users\bludw\source\repos\GenericAnimalClass\GenericAnimalClass\obj\Debug\net6.0\GenericAnimalClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bludw\source\repos\GenericAnimalClass\GenericAnimalClass\obj\Debug\net6.0\GenericAnimalClass.AssemblyInfoInputs.cache
+C:\Users\bludw\source\repos\GenericAnimalClass\GenericAnimalClass\obj\Debug\net6.0\GenericAnimalClass.AssemblyInfo.cs
+C:\Users\bludw\source\repos\GenericAnimalClass\GenericAnimalClass\obj\Debug\net6.0\GenericAnimalClass.csproj.CoreCompileInputs.cache
+C:\Users\bludw\source\repos\GenericAnimalClass\GenericAnimalClass\obj\Debug\net6.0\GenericAnimalClass.dll
+C:\Users\bludw\source\repos\GenericAnimalClass\GenericAnimalClass\obj\Debug\net6.0\refint\GenericAnimalClass.dll
+C:\Users\bludw\source\repos\GenericAnimalClass\GenericAnimalClass\obj\Debug\net6.0\GenericAnimalClass.pdb
+C:\Users\bludw\source\repos\GenericAnimalClass\GenericAnimalClass\obj\Debug\net6.0\GenericAnimalClass.genruntimeconfig.cache
+C:\Users\bludw\source\repos\GenericAnimalClass\GenericAnimalClass\obj\Debug\net6.0\ref\GenericAnimalClass.dll
